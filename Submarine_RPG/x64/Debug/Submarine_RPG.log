@@ -1,0 +1,429 @@
+﻿  Combat.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Combat.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Combat.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Combat.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Combat.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Combat.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Combat.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Combat.cpp')
+  
+  ConcreteSubmarineComponent.cpp
+  Country.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Country.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Country.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Country.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Country.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Country.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Country.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Country.cpp')
+  
+  Crew.cpp
+  Diplomacy.cpp
+  Espionage.cpp
+  Event.cpp
+  Game.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(116,12): error C2039: 'initializeGame': is not a member of 'Game'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.h(19,7):
+  see declaration of 'Game'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(118,5): error C2065: 'gameTitle_': undeclared identifier
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(119,5): error C2065: 'gameDifficultyLevel_': undeclared identifier
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(122,5): error C3861: 'loadResources': identifier not found
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(125,5): error C3861: 'initWindow': identifier not found
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(126,5): error C3861: 'initGraphics': identifier not found
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(129,5): error C2065: 'gameLoopRunning_': undeclared identifier
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(132,5): error C2065: 'listOfSubmarines_': undeclared identifier
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(135,31): error C2512: 'Submarine::Submarine': no appropriate default constructor available
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(135,31):
+  while trying to match the argument list '()'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(135,5): error C3861: 'addSubmarine': identifier not found
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(136,31): error C2512: 'Submarine::Submarine': no appropriate default constructor available
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(136,31):
+  while trying to match the argument list '()'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(136,5): error C3861: 'addSubmarine': identifier not found
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(158,20): error C2039: 'render': is not a member of 'Submarine'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Upgrade.h(7,7):
+  see declaration of 'Submarine'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(183,24): error C2039: 'createSubmarine': is not a member of 'GameLogic'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(9,7):
+  see declaration of 'GameLogic'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(190,15): error C2660: 'GameLogic::updateSubmarineState': function does not take 4 arguments
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,10):
+  see declaration of 'GameLogic::updateSubmarineState'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(190,15):
+  while trying to match the argument list '(SubmarineMemento *, int, int, const std::string)'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(195,15): error C2660: 'GameLogic::saveSubmarineState': function does not take 1 arguments
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,10):
+  see declaration of 'GameLogic::saveSubmarineState'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(195,15):
+  while trying to match the argument list '(SubmarineMemento *)'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(200,15): error C2660: 'GameLogic::restoreSubmarineState': function does not take 1 arguments
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,10):
+  see declaration of 'GameLogic::restoreSubmarineState'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(200,15):
+  while trying to match the argument list '(SubmarineMemento *)'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(205,15): error C2660: 'GameLogic::displaySubmarineDetails': function does not take 1 arguments
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,10):
+  see declaration of 'GameLogic::displaySubmarineDetails'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Game.cpp(205,15):
+  while trying to match the argument list '(SubmarineMemento *)'
+  
+  GameLogic.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'GameLogic.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'GameLogic.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,50): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,79): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,114): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,152): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,226): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,266): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,407): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,441): error C2039: 'string': is not a member of 'std'
+  (compiling source file 'GameLogic.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\include\memory(31,1):
+  see declaration of 'std'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'GameLogic.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'GameLogic.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'GameLogic.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'GameLogic.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'GameLogic.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(78,30): error C2039: 'createSubmarine': is not a member of 'GameLogic'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(9,7):
+  see declaration of 'GameLogic'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(86,121): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(84,32): error C2661: 'SubmarineMemento::SubmarineMemento': no overloaded function takes 18 arguments
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(84,32):
+  while trying to match the argument list '(const std::string, const std::string, const std::string, const std::string, int, int, const std::string, const std::string, int, int, int, int, int, const std::string, const std::string, int, int, int)'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(90,17): error C2511: 'void GameLogic::updateSubmarineState(SubmarineMemento *,int,int,const std::string &)': overloaded member function not found in 'GameLogic'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(9,7):
+  see declaration of 'GameLogic'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(91,16): error C2039: 'updateCurrentPosition': is not a member of 'SubmarineMemento'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(12,7):
+  see declaration of 'SubmarineMemento'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(92,16): error C2039: 'updateCurrentAction': is not a member of 'SubmarineMemento'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(12,7):
+  see declaration of 'SubmarineMemento'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(96,17): error C2511: 'void GameLogic::saveSubmarineState(SubmarineMemento *)': overloaded member function not found in 'GameLogic'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(9,7):
+  see declaration of 'GameLogic'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(101,17): error C2511: 'void GameLogic::restoreSubmarineState(SubmarineMemento *)': overloaded member function not found in 'GameLogic'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(9,7):
+  see declaration of 'GameLogic'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.cpp(105,17): error C2511: 'void GameLogic::displaySubmarineDetails(SubmarineMemento *)': overloaded member function not found in 'GameLogic'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(9,7):
+  see declaration of 'GameLogic'
+  
+  InternationalOrganization.cpp
+  Market.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Market.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Market.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Market.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Market.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Market.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Market.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Market.cpp')
+  
+  NavalBase.cpp
+  ProductionFacility.cpp
+  PropulsionComponent.cpp
+  PropulsionSystem.cpp
+  ResourceLoader.cpp
+  Sonar.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Sonar.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Sonar.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Sonar.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Sonar.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Sonar.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Sonar.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Sonar.cpp')
+  
+  SonarComponent.cpp
+  Submarine.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Submarine.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Submarine.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Submarine.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Submarine.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Submarine.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Submarine.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Submarine.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(35,21): error C2084: function 'wxString Submarine::getSubmarineName(void)' already has a body
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(11,21):
+  see previous definition of 'getSubmarineName'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(137,57): error C2665: 'SubmarineMemento::SubmarineMemento': no overloaded function could convert all the argument types
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineMemento.h(15,5):
+  could be 'SubmarineMemento::SubmarineMemento(const std::string &,const std::string &,const std::string &,const std::string &,int,int,const std::string &,const std::string &,int,int,int,int,int,const std::string &,const std::string &,int,int,int,GameLogic *)'
+  	C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(137,57):
+  	'SubmarineMemento::SubmarineMemento(const std::string &,const std::string &,const std::string &,const std::string &,int,int,const std::string &,const std::string &,int,int,int,int,int,const std::string &,const std::string &,int,int,int,GameLogic *)': cannot convert argument 4 from 'wxString' to 'const std::string &'
+  		C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(138,61):
+  		Reason: cannot convert from 'wxString' to 'const std::string'
+  		C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(138,61):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(137,57):
+  while trying to match the argument list '(std::string, std::string, std::string, wxString, int, double, std::string, std::string, double, double, double, double, double, SubmarineAction::SubmarineActionType, Country *, double, int, double, std::shared_ptr<GameLogic>)'
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(173,57): error C2440: 'initializing': cannot convert from 'std::string' to 'SubmarineAction::SubmarineActionType'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(173,57):
+  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(182,41): error C2440: '=': cannot convert from 'SubmarineAction' to 'SubmarineAction::SubmarineActionType'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(182,41):
+  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(185,46): error C2440: '=': cannot convert from 'Country' to 'Country *'
+  C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.cpp(185,46):
+  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  
+  SubmarineAction.cpp
+  Generating Code...
+  Compiling...
+  SubmarineComponent.cpp
+  SubmarineComponentFactory.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\SubmarineComponentFactory.cpp(17,28): error C2600: 'SubmarineComponentFactory::SubmarineComponentFactory': cannot define a compiler-generated special member function (must be declared in the class first)
+  SubmarineHelper.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SubmarineHelper.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SubmarineHelper.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SubmarineHelper.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineHelper.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineHelper.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineHelper.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineHelper.cpp')
+  
+  SubmarineMemento.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.h(125,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.h(125,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.h(125,43): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\Submarine.h(127,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'SubmarineMemento.cpp')
+  
+  TorpedoComponent.cpp
+  Treaty.cpp
+  UI.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'UI.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'UI.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'UI.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'UI.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'UI.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'UI.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'UI.cpp')
+  
+  Upgrade.cpp
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Upgrade.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Upgrade.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(37,539): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Upgrade.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(39,31): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Upgrade.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(41,29): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Upgrade.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(43,32): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Upgrade.cpp')
+  
+C:\Users\Marcus\source\repos\SubMarine RPG\Submarine_RPG\GameLogic.h(44,34): error C2061: syntax error: identifier 'SubmarineMemento'
+  (compiling source file 'Upgrade.cpp')
+  
+  Generating Code...
